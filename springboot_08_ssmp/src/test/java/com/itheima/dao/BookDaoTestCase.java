@@ -12,6 +12,8 @@ public class BookDaoTestCase {
     void testGetById(){
         System.out.println(bookDao.selectById(1));
         System.out.println("2");
+        System.out.println("3");
+        System.out.println("4");
 
     }
 }
